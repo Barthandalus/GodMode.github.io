@@ -4,7 +4,7 @@
 
 GodMode is a 75/75 Custom Content FFXI Private server.
 
-Exceed the limits and obtain GodHood.
+Exceed the limits and obtain Godhood.
 
 # Server Information
 
